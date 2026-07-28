@@ -1,6 +1,8 @@
 # ca327
 Compucorp Alpha 327 emulator
 
+_To the author's knowledge, this is the first publicly available emulator for the Compucorp Alpha 327._
+
 ## history
 
 This is an emulator I wrote around 2003 to replace a failing Compucorp Alpha 327 used to execute
