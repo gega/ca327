@@ -12,7 +12,7 @@ Found on an old backup HDD, ublished for archival purposes only.
 
 ## device
 
-![A327](https://github.com/gega/ca327/blob/main/ca327.png)
+![A327](ca327.png)
 
 ## opcodes
 
