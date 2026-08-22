@@ -8,7 +8,7 @@ _To the author's knowledge, this is the first publicly available emulator for th
 This is an emulator I wrote around 2003 to replace a failing Compucorp Alpha 327 used to execute
 legacy calculator programs. It does not include the original application programs.
 
-Found on an old backup HDD, ublished for archival purposes only.
+Found on an old backup HDD, published for archival purposes only.
 
 ## device
 
